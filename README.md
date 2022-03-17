@@ -5,4 +5,4 @@ This was a fictional landing page that I created as a part of an interview proce
 
 ### Screenshot Preview:
 
-![Desktop](img/Nerd-Date-Desktop.png./screenshot.png)
+![Desktop](img/Nerd-Date-Desktop.png)
